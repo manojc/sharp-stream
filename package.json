@@ -1,0 +1,31 @@
+{
+    "name": "sharp-stream",
+    "version": "1.0.0",
+    "description": "POC to make use of sharp streams to process JPEG images",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "author": "Manoj Chalode",
+    "license": "MIT",
+    "dependencies": {
+        "sharp": "^0.23.1"
+    },
+    "devDependencies": {
+        "@types/sharp": "^0.23.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/manojc/sharp-stream.git"
+    },
+    "keywords": [
+        "sharp",
+        "stream",
+        "jpeg",
+        "image-processing"
+    ],
+    "bugs": {
+        "url": "https://github.com/manojc/sharp-stream/issues"
+    },
+    "homepage": "https://github.com/manojc/sharp-stream#readme"
+}
